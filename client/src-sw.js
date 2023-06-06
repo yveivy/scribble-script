@@ -26,7 +26,17 @@ warmStrategyCache({
 });
 
 registerRoute(({ request }) => request.mode === 'navigate', (['style', 'script', 'worker'].includes(request.destination)),
-pageCache
+new offlineFallback({
+  cacheNae: 'static-resources',
+  plugins: [
+    new CacheableResponsePlugin({
+      statuses: [0, 200],
+    }),
+    new ExpirationPlugin({
+      maxAgeSeconds: 30 * 24 * 60 * 60,
+    }),
+  ],
+})
 );
 
 // registerRoute(
