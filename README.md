@@ -11,10 +11,10 @@ With Scribbled Script, you can rely on robust data persistence techniques that p
 
 https://scribbled-script.herokuapp.com/
 
-![alt text](./images/scribbled-script-screencapture.png)
-![alt text](./images/scribbled-script-screencapture.png)
-![alt text](./images/scribbled-script-screencapture.png)
-![alt text](./images/scribbled-script-screencapture.png)
+![alt text](./images/scribbled-script-installation-screencapture.png)
+![alt text](./images/scribbled-script-installed-screencapture.png)
+![alt text](./images/scribbled-script-manifest-screencapture.png)
+![alt text](./images/scribbled-script-indexedDB-screencapture.png)
 
 
 ## Installation:
