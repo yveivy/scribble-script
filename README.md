@@ -5,7 +5,7 @@
 
 Elevate your note-taking and code-writing experience with Scribbled Script! It is a powerful and versatile text editor that runs directly in your browser, allowing you to create and manage notes or code snippets with ease. With its progressive application (PWA) capabilities, Scribbled Script offers a seamless experience across devices and can be used both online and offline. You can create and access your notes without an internet connection, and it automatically syncs your changes once your back online.
 
-With Scribbled Script, you can rely on robust data persistence techniques that provide redundancy to safeguard your important information. By leveraging the IndexedDB database and the lightweight 'idb' package, Scribble Script ensures that your data is securely stored and readily accessible. Whether jotting down ideas, saving important snippets, or organizing your thoughts, Scribbled Script has you covered.
+With Scribbled Script, you can rely on robust data persistence techniques that provide redundancy to safeguard your important information. By leveraging the IndexedDB database and the lightweight 'idb' package, Scribbled Script ensures that your data is securely stored and readily accessible. Whether jotting down ideas, saving important snippets, or organizing your thoughts, Scribbled Script has you covered.
 
 ## Deployed Application: 
 
